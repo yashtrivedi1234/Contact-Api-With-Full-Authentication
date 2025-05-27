@@ -31,16 +31,15 @@ A RESTful API built with Node.js, Express, and MongoDB to manage user contacts. 
 ## API Endpoints Overview
 
 ## Method	Endpoint	Description	Auth Required
--- **POST**	- /api/user/register	Register a new user	No.
--- **POST**	- /api/user/login	Login user and get JWT token	No.
--- **GET**	- /api/contact/	Get all contacts	No.
--- **GET**	- /api/contact/userid/:id	Get contacts by user ID	No.
--- **GET**	- /api/contact/:id	Get contact by contact ID	No.
--- **POST**	- /api/contact/new	Create new contact	Yes.
--- **PUT** - /api/contact/put/:id	Update contact by ID	Yes.
--- **DELETE** - 	/api/contact/delete/:id	Delete contact by ID	Yes.
 
-
+ - **POST** — /api/user/register	Register a new user	No.
+- **GET** — /api/user/login	Login user and get JWT token	No.
+- **GET** — /api/contact/	Get all contacts	No.
+- **GET** — /api/contact/userid/:id	Get contacts by user ID	No.
+- **GET** — /api/contact/:id	Get contact by contact ID	No.
+- **POST** — /api/contact/new	Create new contact	Yes.
+- **PUT** — /api/contact/put/:id	Update contact by ID	Yes.
+- **DELETE** — /api/contact/delete/:id	Delete contact by ID	Yes.
 ⸻
 
 ## Testing
