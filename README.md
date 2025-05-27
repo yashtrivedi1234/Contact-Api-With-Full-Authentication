@@ -1,4 +1,4 @@
-## Contact API
+## Contact Api With Full Authentication
 A RESTful API built with Node.js, Express, and MongoDB to manage user contacts. It allows users to register, login, and perform CRUD operations on contacts with full authentication and authorization.
 
 ## Live Link: https://contact-api-with-full-authentication-wv2w.onrender.com
