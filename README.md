@@ -42,7 +42,6 @@ A RESTful API built with Node.js, Express, and MongoDB to manage user contacts. 
 | POST   | /api/contact/new            | Create new contact           | Yes           |
 | PUT    | /api/contact/put/:id        | Update contact by ID         | Yes           |
 | DELETE | /api/contact/delete/:id     | Delete contact by ID         | Yes           |
-⸻
 
 ## Testing
 - Use Thunder Client or Postman to test the API endpoints.
