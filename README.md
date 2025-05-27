@@ -1,15 +1,15 @@
 
 ⸻
 
-Contact API
+## Contact API
 
-Live Link: https://contact-api-with-full-authentication-wv2w.onrender.com
+## Live Link: https://contact-api-with-full-authentication-wv2w.onrender.com
 
 A RESTful API built with Node.js, Express, and MongoDB to manage user contacts. It allows users to register, login, and perform CRUD operations on contacts with full authentication and authorization.
 
 ⸻
 
-Features
+## Features
 	•	User registration and login with secure password hashing.
 	•	JWT-based authentication and authorization.
 	•	Create, read, update, and delete contacts.
@@ -19,7 +19,7 @@ Features
 
 ⸻
 
-Technologies Used
+## Technologies Used
 	•	Node.js — JavaScript runtime environment.
 	•	Express — Web framework for building APIs.
 	•	MongoDB — NoSQL database to store users and contacts.
@@ -31,7 +31,7 @@ Technologies Used
 
 ⸻
 
-Setup & Installation
+## Setup & Installation
 	1.	Clone the repository:
 
 git clone https://github.com/yourusername/contact-api.git
@@ -64,7 +64,7 @@ http://localhost:5000/api/
 
 ⸻
 
-API Endpoints Overview
+## API Endpoints Overview
 
 Method	Endpoint	Description	Auth Required
 POST	/api/user/register	Register a new user	No
