@@ -52,12 +52,12 @@ A RESTful API built with Node.js, Express, and MongoDB to manage user contacts. 
 ## Screenshots
 ⸻
 
-## User Register
+## Register a new user 
 <img width="1470" alt="Screenshot 2025-05-28 at 10 13 14 PM" src="https://github.com/user-attachments/assets/5e9c1ca4-af3e-4f56-a288-97ec98095944" />
 
 ⸻
 
-## User Login
+## Login and get JWT token
 <img width="1470" alt="Screenshot 2025-05-28 at 10 19 54 PM" src="https://github.com/user-attachments/assets/fe5bc3b8-3b6c-491f-99e2-75e50b69aeb4" />
 
 ⸻
