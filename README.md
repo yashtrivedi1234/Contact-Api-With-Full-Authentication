@@ -50,6 +50,14 @@ A RESTful API built with Node.js, Express, and MongoDB to manage user contacts. 
 ⸻
 
 ## Screenshots
-<img width="1470" alt="Screenshot 2025-05-27 at 8 38 09 PM" src="https://github.com/user-attachments/assets/7dd7f440-e728-4a55-9401-c73cf15de62e" />
+⸻
+
+## User Register
+<img width="1470" alt="Screenshot 2025-05-28 at 10 13 14 PM" src="https://github.com/user-attachments/assets/5e9c1ca4-af3e-4f56-a288-97ec98095944" />
+
+⸻
+
+## User Login
+<img width="1470" alt="Screenshot 2025-05-28 at 10 19 54 PM" src="https://github.com/user-attachments/assets/fe5bc3b8-3b6c-491f-99e2-75e50b69aeb4" />
 
 ⸻
