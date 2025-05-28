@@ -46,6 +46,8 @@ A RESTful API built with Node.js, Express, and MongoDB to manage user contacts. 
 ## Testing
 - Use Thunder Client or Postman to test the API endpoints.
 - Include the JWT token in Authorization header for protected routes in the format:
+- Key: Authorization
+- Value: Login Token (You get when you successfully login)
 
 ⸻
 
