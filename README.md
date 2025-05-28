@@ -88,3 +88,6 @@ A RESTful API built with Node.js, Express, and MongoDB to manage user contacts. 
 ⸻
 
 ## Delete contact by ID
+<img width="1470" alt="Screenshot 2025-05-28 at 11 16 37 PM" src="https://github.com/user-attachments/assets/37c0fd0e-474d-46de-aa70-5ba13a329b2d" />
+
+⸻
