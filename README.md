@@ -68,7 +68,7 @@ A RESTful API built with Node.js, Express, and MongoDB to manage user contacts. 
 ⸻
 
 ## Get contacts by user ID
-<img width="1470" alt="Screenshot 2025-05-28 at 10 28 59 PM" src="https://github.com/user-attachments/assets/d777f36c-af87-4413-9b6b-ff9e886d88bb" />
+<img width="1470" alt="Screenshot 2025-05-28 at 11 25 21 PM" src="https://github.com/user-attachments/assets/fb493567-9497-408f-b484-102c2cd53795" />
 
 ⸻
 
